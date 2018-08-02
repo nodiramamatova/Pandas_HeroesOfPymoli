@@ -3,7 +3,7 @@
 
 ## Option 1: Heroes of Pymoli
 
-![title](../Images/Fantasy.jpg)
+![title](Images/Fantasy.jpg)
 
 
 ```python
